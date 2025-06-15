@@ -1,0 +1,1 @@
+# RedisLite: A lightweight implementation of Redis
