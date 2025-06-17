@@ -5,7 +5,7 @@
 
 #define CONN_BACKLOG 128
 #define MAX_CLIENTS 1024
-#define BUFFER_SIZE 1024
+#define BUFFER_SIZE 8192
 #define PORT 6379
 
 typedef struct
